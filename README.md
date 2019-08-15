@@ -34,7 +34,7 @@ You'll clean, explore, and model this dataset with a multivariate linear regress
 For online students, there will be five deliverables for this project:
 
 1. A well documented **Jupyter Notebook** containing any code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project.  
-2. A **README.md** file in the GitHub repository. This file should be the source of information for navigating through the repository, describing its contents.
+2. An organized **README.md** file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository.
 3. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) giving a high-level overview of your methodology and recommendations for non-technical stakeholders. Make sure to also add and commit this pdf of your non-technical presentation to your repository with a file name of presentation.pdf.
 4. **[A Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging)**	
 5. A **Video Walkthrough** of your non-technical presentation. Some common video recording tools used are Zoom, Quicktime, and Nimbus. After you record your presentation, publish it on a service like YouTube or Google Drive, you will need a link to the video to submit your project.
@@ -97,7 +97,7 @@ What won't happen:
 
 This section outlines the rubric we'll use to evaluate your project.
 
-Online students can find a PDF of the grading rubric [here](link-to-rubric). On-campus students should contact their instructor. 
+Online students can find a PDF of the grading rubric [here](https://github.com/learn-co-curriculum/dsc-v2-mod1-final-project/blob/master/module1_project_rubric.pdf). On-campus students should contact their instructor. 
 
 ### 1. Technical Report Must-Haves
 
