@@ -31,7 +31,7 @@ You'll clean, explore, and model this dataset with a multivariate linear regress
 
 ## The Deliverables
 
-For online students, there will be five deliverables for this project:
+For online students, there will be five deliverables for this project (Note: On-campus students may have different requirements, please speak with your instructor):
 
 1. A well documented **Jupyter Notebook** containing any code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project.  
 2. An organized **README.md** file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository.
@@ -39,7 +39,7 @@ For online students, there will be five deliverables for this project:
 4. **[A Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging)**	
 5. A **Video Walkthrough** of your non-technical presentation. Some common video recording tools used are Zoom, Quicktime, and Nimbus. After you record your presentation, publish it on a service like YouTube or Google Drive, you will need a link to the video to submit your project.
 
-For on-campus students, please talk to your instructor for a list of required project deliverables. 
+Note: On-campus students may have different requirements, please speak with your instructor.
 
 ### Jupyter Notebook Must-Haves
 
@@ -85,7 +85,8 @@ Your presentation should:
 Refer back to the [Blogging Guidelines](https://github.com/learn-co-curriculum/dsc-welcome-blogging) for the technical requirements and blog ideas.
 
 
-## The Process
+## The Process 
+(Note: On-campus students may have different processes, please speak with your instructor)
 
 ### 1. Getting Started
 
@@ -97,6 +98,8 @@ Once you're done with the first 8 sections, please start on the project. Do that
 
 ### 2. The Project Review
 
+_Note: On-campus students may have different review processes, please speak with your instructor._
+
 > **When you start on the project, please also reach out to an instructor immediately to schedule your project review** (if you're not sure who to schedule with, please ask in Slack!)
 
 #### What to expect from the Project Review
@@ -106,7 +109,7 @@ Project reviews are focused on preparing you for technical interviews. Treat pro
 The project review is comprised of a 45 minute 1:1 session with one of the instructors. During your project review, be prepared to:
 
 #### 1. Deliver your PDF presentation to a non-technical stakeholder.
-In this phase of the review (~10 mins) your instructor will play the part of a non-technical stakeholder that you are presenting your findings to. The presentation should not exceed 5 minutes, giving the "stakeholder" 5 minutes to ask questions.
+In this phase of the review (~10 mins) your instructor will play the part of a non-technical stakeholder that you are presenting your findings to. The presentation  should not exceed 5 minutes, giving the "stakeholder" 5 minutes to ask questions.
 
 In the first half of the presentation (2-3 mins), you should summarize your methodology in a way that will be comprehensible to someone with no background in data science and that will increase their confidence in you and your findings. In the second half (the remaining 2-3 mins) you should summarize your findings and be ready to answer a couple of non-technical questions from the audience. The questions might relate to technical topics (sampling bias, confidence, etc) but will be asked in a non-technical way and need to be answered in a way that does not assume a background in statistics or machine learning. You can assume a smart, business stakeholder, with a non-quantitative college degree.
 
@@ -149,7 +152,7 @@ _Reminder: Make sure to also add and commit a pdf of your non-technical presenta
  
  
 ## Grading Rubric
-Online students can find a PDF of the grading rubric for the project [here](https://github.com/learn-co-curriculum/dsc-v2-mod1-final-project/blob/master/module1_project_rubric.pdf). On-campus students should contact their instructor for more information. 
+Online students can find a PDF of the grading rubric for the project [here](https://github.com/learn-co-curriculum/dsc-v2-mod1-final-project/blob/master/module1_project_rubric.pdf). On-campus students may have different review processes, please speak with your instructor.
 
 
 ## Summary
