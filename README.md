@@ -31,69 +31,17 @@ You'll clean, explore, and model this dataset with a multivariate linear regress
 
 ## The Deliverables
 
-There will be four  deliverables for this project:
+For online students, there will be five deliverables for this project (Note: On-campus students may have different requirements, please speak with your instructor):
 
 1. A well documented **Jupyter Notebook** containing any code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project.  
-2. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) giving a high-level overview of your methodology and recommendations for non-technical stakeholders. Make sure to also add and commit this pdf of your non-technical presentation to your repository with a file name of presentation.pdf.
-3. **[A Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging)**	
-4. A **Video Walkthrough** of your non-technical presentation. Some common video recording tools used are Zoom, Quicktime, and Nimbus. After you record your presentation, publish it on a service like YouTube or Google Drive, you will need a link to the video to submit your project.
+2. An organized **README.md** file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository.
+3. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) giving a high-level overview of your methodology and recommendations for non-technical stakeholders. Make sure to also add and commit this pdf of your non-technical presentation to your repository with a file name of presentation.pdf.
+4. **[A Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging)**	
+5. A **Video Walkthrough** of your non-technical presentation. Some common video recording tools used are Zoom, Quicktime, and Nimbus. After you record your presentation, publish it on a service like YouTube or Google Drive, you will need a link to the video to submit your project.
 
-## The Process
+Note: On-campus students may have different requirements, please speak with your instructor.
 
-### 1. Getting Started
-
-Please start by reviewing this document. If you have any questions, please ask them in slack ASAP so (a) we can answer the questions and (b) so we can update this repository to make it clearer.
-
- Be sure to let the instructor team know when you’ve started working on a project, either by reaching out over Slack or, if you are in a full-time or part-time cohort, by connecting with your Cohort Lead in your weekly 1:1. If you’re not sure who to reach out to, post in the #online-ds-sp-000 channel in Slack.
-
-Once you're done with the first 8 sections, please start on the project. Do that by forking this repository, cloning it locally, and working in the student.ipynb file. Make sure to also add and commit a pdf of your presentation to the repository with a file name of `presentation.pdf`.
-
-### 2. The Project Review
-
-> **When you start on the project, please also reach out to an instructor immediately to schedule your project review** (if you're not sure who to schedule with, please ask in slack!)
-
-#### What to expect from the Project Review
-
-Project reviews are focused on preparing you for technical interviews. Treat project reviews as if they were technical interviews, in both attitude and technical presentation *(sometimes technical interviews will feel arbitrary or unfair - if you want to get the job, commenting on that is seldom a good choice)*.
-
-The project review is comprised of a 45 minute 1:1 session with one of the instructors. During your project review, be prepared to:
-
-#### 1. Deliver your PDF presentation to a non-technical stakeholder.
-In this phase of the review (~10 mins) your instructor will play the part of a non-technical stakeholder that you are presenting your findings to. The presentation should not exceed 5 minutes, giving the "stakeholder" 5 minutes to ask questions.
-
-In the first half of the presentation (2-3 mins), you should summarize your methodology in a way that will be comprehensible to someone with no background in data science and that will increase their confidence in you and your findings. In the second half (the remaining 2-3 mins) you should summarize your findings and be ready to answer a couple of non-technical questions from the audience. The questions might relate to technical topics (sampling bias, confidence, etc) but will be asked in a non-technical way and need to be answered in a way that does not assume a background in statistics or machine learning. You can assume a smart, business stakeholder, with a non-quantitative college degree.
-
-#### 2. Go through the Jupyter Notebook, answering questions about how you made certain decisions. Be ready to explain things like:
-    * "how did you pick the question(s) that you did?"
-    * "why are these questions important from a business perspective?"
-    * "how did you decide on the data cleaning options you performed?"
-    * "why did you choose a given method or library?"
-    * "why did you select those visualizations and what did you learn from each of them?"
-    * "why did you pick those features as predictors?"
-    * "how would you interpret the results?"
-    * "how confident are you in the predictive quality of the results?"
-    * "what are some of the things that could cause the results to be wrong?"
-
-Think of the first phase of the review (~30 mins) as a technical boss reviewing your work and asking questions about it before green-lighting you to present to the business team. You should practice using the appropriate technical vocabulary to explain yourself. Don't be surprised if the instructor jumps around or sometimes cuts you off - there is a lot of ground to cover, so that may happen.
-
-If any requirements are missing or if significant gaps in understanding are uncovered, be prepared to do one or all of the following:
-* Perform additional data cleanup, visualization, feature selection, modeling and/or model validation
-* Submit an improved version
-* Meet again for another Project Review
-
-What won't happen:
-* You won't be yelled at, belittled, or scolded
-* You won't be put on the spot without support
-* There's nothing you can do to instantly fail or blow it
-
-**Please note: We need to receive the URL of your repository at least 24 hours before and please have the project finished at least 3 hours before your review so we can look at your materials in advance.**
-
-
-## Requirements
-
-This section outlines the rubric we'll use to evaluate your project.
-
-### 1. Technical Report Must-Haves
+### Jupyter Notebook Must-Haves
 
 For this project, your Jupyter Notebook should meet the following specifications:
 
@@ -119,9 +67,9 @@ For this project, your Jupyter Notebook should meet the following specifications
 * You pick at least 3 coefficients from your final model and explain their impact on the price of a house in this dataset.   
 
 
-### 2. Non-Technical Presentation Must-Haves
+### Non-Technical Presentation Must-Haves
 
-The second deliverable should be a Keynote, PowerPoint or Google Slides presentation delivered as a pdf file in your fork of this repository with the file name of `presentation.pdf` detailing the results of your project.  Your target audience is non-technical people interested in using your findings to maximize their profit when selling their home.
+Another deliverable should be a Keynote, PowerPoint or Google Slides presentation delivered as a pdf file in your fork of this repository with the file name of `presentation.pdf` detailing the results of your project.  Your target audience is non-technical people interested in using your findings to maximize their profit when selling their home.
 
 Your presentation should:
 
@@ -132,9 +80,64 @@ Your presentation should:
 
 **_Based on the results of your models, your presentation should discuss at least two concrete features that highly influence housing prices._**
 
-### 3. Blog Post
+### Blog Post Must-Haves
 
 Refer back to the [Blogging Guidelines](https://github.com/learn-co-curriculum/dsc-welcome-blogging) for the technical requirements and blog ideas.
+
+
+## The Process 
+(Note: On-campus students may have different processes, please speak with your instructor)
+
+### 1. Getting Started
+
+Please start by reviewing this document. If you have any questions, please ask them in Slack ASAP so (a) we can answer the questions and (b) so we can update this repository to make it clearer.
+
+Be sure to let the instructor team know when you’ve started working on a project, either by reaching out over Slack or, if you are in a full-time or part-time cohort, by connecting with your Cohort Lead in your weekly 1:1. If you’re not sure who to reach out to, post in the #online-ds-sp-000 channel in Slack.
+
+Once you're done with the first 8 sections, please start on the project. Do that by forking this repository, cloning it locally, and working in the student.ipynb file. Make sure to also add and commit a pdf of your presentation to the repository with a file name of `presentation.pdf`.
+
+### 2. The Project Review
+
+_Note: On-campus students may have different review processes, please speak with your instructor._
+
+> **When you start on the project, please also reach out to an instructor immediately to schedule your project review** (if you're not sure who to schedule with, please ask in Slack!)
+
+#### What to expect from the Project Review
+
+Project reviews are focused on preparing you for technical interviews. Treat project reviews as if they were technical interviews, in both attitude and technical presentation *(sometimes technical interviews will feel arbitrary or unfair - if you want to get the job, commenting on that is seldom a good choice)*.
+
+The project review is comprised of a 45 minute 1:1 session with one of the instructors. During your project review, be prepared to:
+
+#### 1. Deliver your PDF presentation to a non-technical stakeholder.
+In this phase of the review (~10 mins) your instructor will play the part of a non-technical stakeholder that you are presenting your findings to. The presentation  should not exceed 5 minutes, giving the "stakeholder" 5 minutes to ask questions.
+
+In the first half of the presentation (2-3 mins), you should summarize your methodology in a way that will be comprehensible to someone with no background in data science and that will increase their confidence in you and your findings. In the second half (the remaining 2-3 mins) you should summarize your findings and be ready to answer a couple of non-technical questions from the audience. The questions might relate to technical topics (sampling bias, confidence, etc) but will be asked in a non-technical way and need to be answered in a way that does not assume a background in statistics or machine learning. You can assume a smart, business stakeholder, with a non-quantitative college degree.
+
+#### 2. Go through the Jupyter Notebook, answering questions about how you made certain decisions. Be ready to explain things like:
+    * "How did you pick the question(s) that you did?"
+    * "Why are these questions important from a business perspective?"
+    * "How did you decide on the data cleaning options you performed?"
+    * "Why did you choose a given method or library?"
+    * "Why did you select those visualizations and what did you learn from each of them?"
+    * "Why did you pick those features as predictors?"
+    * "How would you interpret the results?"
+    * "How confident are you in the predictive quality of the results?"
+    * "What are some of the things that could cause the results to be wrong?"
+
+Think of the first phase of the review (~30 mins) as a technical boss reviewing your work and asking questions about it before green-lighting you to present to the business team. You should practice using the appropriate technical vocabulary to explain yourself. Don't be surprised if the instructor jumps around or sometimes cuts you off - there is a lot of ground to cover, so that may happen.
+
+If any requirements are missing or if significant gaps in understanding are uncovered, be prepared to do one or all of the following:
+* Perform additional data cleanup, visualization, feature selection, modeling and/or model validation
+* Submit an improved version
+* Meet again for another Project Review
+
+What won't happen:
+* You won't be yelled at, belittled, or scolded
+* You won't be put on the spot without support
+* There's nothing you can do to instantly fail or blow it
+
+**Please note: We need to receive the URL of your repository at least 24 hours before and please have the project finished at least 3 hours before your review so we can look at your materials in advance.**
+
 
 ## Submitting your Project
 
@@ -146,6 +149,10 @@ _Reminder: Make sure to also add and commit a pdf of your non-technical presenta
 3. **Record Walkthrough:** Include a link to your video walkthrough.
 
  Hit "I'm done" to wrap it up. You will receive an email in order to schedule your review with your instructor.
+ 
+ 
+## Grading Rubric
+Online students can find a PDF of the grading rubric for the project [here](https://github.com/learn-co-curriculum/dsc-v2-mod1-final-project/blob/master/module1_project_rubric.pdf). On-campus students may have different review processes, please speak with your instructor.
 
 
 ## Summary
